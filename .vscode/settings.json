@@ -1,0 +1,8 @@
+{
+  "[python]": {
+    "editor.autoIndent": "advanced",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+  },
+  "editor.insertSpaces": false
+}
